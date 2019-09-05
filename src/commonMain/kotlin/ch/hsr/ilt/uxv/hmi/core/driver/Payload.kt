@@ -1,4 +1,4 @@
-package ch.hsr.ilt.uxv.hmi.driver
+package ch.hsr.ilt.uxv.hmi.core.driver
 
 interface Payload {
 
